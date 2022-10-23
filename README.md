@@ -17,7 +17,7 @@
 
 ### Testing Documentation
 
-### Follow me 
+### Follow Me 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIN-black?style=for-the-badge&logo=LinkedIN&logoColor=blue)](https://www.linkedin.com/in/dmitriishcherbinin)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/czechdm)
 
