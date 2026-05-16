@@ -1,5 +1,3 @@
-[![Header](https://github.com/shcherbin1/shcherbin1/blob/main/assets/WGForge.png)](https://www.linkedin.com/in/dmitriishcherbinin)
-
 ### Languages and Tools
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=dd8a00)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-black?style=for-the-badge&logo=postman&logoColor=dd8a00)
